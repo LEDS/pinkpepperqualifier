@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"Verdes": 4, "Amadurecendo": 10, "Maduros": 3}
+=======
+{"Verdes": 7, "Amadurecendo": 2, "Maduros": 2}
+>>>>>>> 3ed48ab6e367a8731da479fb24df74c18c6df10d
