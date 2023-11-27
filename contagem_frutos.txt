@@ -1,0 +1,1 @@
+{"Verdes": 4, "Amadurecendo": 10, "Maduros": 3}
